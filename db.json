@@ -1,0 +1,160 @@
+{
+  "purchases": [
+    {
+      "date": "2023-06-28T09:30:00",
+      "store": "1",
+      "description": "Item 1",
+      "value": 10.99
+    },
+    {
+      "date": "2023-06-27T14:45:00",
+      "store": "5",
+      "description": "Item 2",
+      "value": 5.99
+    },
+    {
+      "date": "2023-06-26T19:15:00",
+      "store": "5",
+      "description": "Item 3",
+      "value": 8.5
+    },
+    {
+      "date": "2023-06-25T12:00:00",
+      "store": "2",
+      "description": "Item 4",
+      "value": 15.75
+    },
+    {
+      "date": "2023-06-24T16:20:00",
+      "store": "1",
+      "description": "Item 5",
+      "value": 3.25
+    },
+    {
+      "date": "2023-06-23T21:50:00",
+      "store": "6",
+      "description": "Item 6",
+      "value": 20
+    },
+    {
+      "date": "2023-06-22T10:10:00",
+      "store": "5",
+      "description": "Item 7",
+      "value": 12.99
+    },
+    {
+      "date": "2023-06-21T15:30:00",
+      "store": "1",
+      "description": "Item 8",
+      "value": 6.49
+    },
+    {
+      "date": "2023-06-20T19:40:00",
+      "store": "2",
+      "description": "Item 9",
+      "value": 18.75
+    },
+    {
+      "date": "2023-06-19T12:15:00",
+      "store": "2",
+      "description": "Item 10",
+      "value": 9.99
+    },
+    {
+      "date": "2023-06-18T16:50:00",
+      "store": "3",
+      "description": "Item 11",
+      "value": 7.25
+    },
+    {
+      "date": "2023-06-17T21:05:00",
+      "store": "2",
+      "description": "Item 12",
+      "value": 14.5
+    },
+    {
+      "date": "2023-06-16T09:20:00",
+      "store": "5",
+      "description": "Item 13",
+      "value": 25.99
+    },
+    {
+      "date": "2023-06-15T14:35:00",
+      "store": "1",
+      "description": "Item 14",
+      "value": 11.49
+    },
+    {
+      "date": "2023-06-14T19:55:00",
+      "store": "5",
+      "description": "Item 15",
+      "value": 16.75
+    },
+    {
+      "date": "2023-06-23T21:50:00",
+      "store": "6",
+      "description": "Item 16",
+      "value": 20
+    },
+    {
+      "date": "2023-06-22T10:10:00",
+      "store": "5",
+      "description": "Item 17",
+      "value": 12.99
+    },
+    {
+      "date": "2023-06-21T15:30:00",
+      "store": "1",
+      "description": "Item 18",
+      "value": 6.49
+    },
+    {
+      "date": "2023-06-20T19:40:00",
+      "store": "2",
+      "description": "Item 19",
+      "value": 18.75
+    },
+    {
+      "date": "2023-06-19T12:15:00",
+      "store": "2",
+      "description": "Item 20",
+      "value": 9.99
+    },
+    {
+      "date": "2023-06-18T16:50:00",
+      "store": "3",
+      "description": "Item 21",
+      "value": 7.25
+    },
+    {
+      "date": "2023-06-17T21:05:00",
+      "store": "2",
+      "description": "Item 22",
+      "value": 14.5
+    },
+    {
+      "date": "2023-06-16T09:20:00",
+      "store": "5",
+      "description": "Item 23",
+      "value": 25.99
+    },
+    {
+      "date": "2023-06-15T14:35:00",
+      "store": "1",
+      "description": "Item 24",
+      "value": 11.49
+    },
+    {
+      "date": "2023-06-14T19:55:00",
+      "store": "5",
+      "description": "Item 25",
+      "value": 16.75
+    }
+  ],
+  "client_info": [
+    {}
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
